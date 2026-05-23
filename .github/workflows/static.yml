@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>daily_drift</title>
+
+<style>
+
+body{
+   h2{
+    color:#fafafa;
+    font-size:75px;
+    margin-bottom:40px;
+    font-family:nexa script;}
+h3{
+color:#fafafa;
+    font-size:25px;
+    margin-bottom:40px;
+    font-family:Times new roman;}
+
+
+}
+
+button{
+    width:280px;
+    height:30px;
+    padding:30px;
+    font-size:20px;
+    background-color:black;
+    color:white;
+    border:none;
+    border-radius:10px;
+    cursor:pointer;
+    box-shadow:0 4px 10px rgba(0,0,0,0.3);
+    transition:0.3s;
+}
+
+button:hover{
+    background-color:#24EDC2;
+    transform:scale(1.05);
+}
+.container{
+     display:grid;
+    grid-template-columns: repeat(3, 280px);
+    justify-content:center;
+    gap:20px;
+}
+.icon{
+    font-size:24px;
+    display:block;
+}
+
+</style>
+
+</head>
+
+<body>
+<div class="container">
+
+<img src="C:\Users\IT-DEP\Desktop\images.jpg") alt="description" "width="1500px" height="1000px">
+
+<h2>
+<b>daily drift 
+<b/>
+</h2>
+<h3>
+Social meadia channel
+<h3/>
+
+<button onclick="window.location.href='https://www.instagram.com/daily_drift_974?igsh=MXB2OWZ6ajk5ajdpYw%3D%3D&utm_source=qr'">
+<span class="icon">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"></span>
+<i class="fa fa-instagram"></i>
+
+INSTAGRAM
+</button>
+
+
+</div>
+
+
+
+</body>
+</html>
